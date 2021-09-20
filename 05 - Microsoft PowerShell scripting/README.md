@@ -46,7 +46,7 @@ The goal of the course is guide to the trainees how to build scripts for automat
 - [01 hello world](./01-hello-world.md)
 - [02 Csv input file](./02-csv-input-file)
 - [03]()
-- [04]()
+- [04 Folder, file and Add Content](./04-folder-file-addContent.md)
 
 
 ## Collaborators
@@ -54,5 +54,5 @@ The goal of the course is guide to the trainees how to build scripts for automat
 | ------------ | ------------ |
 |  Abraham Ortega | @Abraham Ortega|
 |  Erick Puga | @Erick Puga |
-| Jorge Gongora  | @Jorge Gongora  |
+| Jorge Góngora  | @Jorge Gongora  |
 
