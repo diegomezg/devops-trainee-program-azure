@@ -1,4 +1,4 @@
-# Unix Shell Scripting
+# PowerShell Scripting
 ### Hello World
 ------------
 ##### Instructions
