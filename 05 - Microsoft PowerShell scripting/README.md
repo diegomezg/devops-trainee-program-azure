@@ -52,7 +52,7 @@ The goal of the course is guide to the trainees how to build scripts for automat
 ## Collaborators
 | Collaborator  | Slack  |
 | ------------ | ------------ |
-|  Abraham Ortega | @Abraham Ortega|
-|  Erick Puga | @Erick Puga |
-| Jorge Góngora  | @Jorge Gongora  |
+|  Abraham Ortega | @AbrahamOrtega|
+|  Erick Puga | @ErickPuga |
+| Jorge Góngora  | @JorgeGongora  |
 
