@@ -37,15 +37,15 @@ The goal of the course is guide to the trainees how to build scripts for automat
 
 
 ## Learning materials
-- Start by gathering the materials needed to complete the learning objectives.
-- Add them here in a form of a list
-- You can paste the URL's with a short title for each item
+- [Automate administrative tasks by using PowerShell](https://docs.microsoft.com/en-us/learn/paths/powershell/).
 
+- [PowerShell 101 Book (Optional)](https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.1) 
 
+- [Sample scripts for system administration (Optional)](https://docs.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.1)
 ## Course activities
 - [01 hello world](./01-hello-world.md)
 - [02 Csv input file](./02-csv-input-file)
-- [03]()
+- [03 Monitor Windows Services](./03-Monitor-Windows-Services.md)
 - [04 Folder, file and Add Content](./04-folder-file-addContent.md)
 
 
