@@ -1,9 +1,11 @@
 # PowerShell Scripting
 ### Folder, File, Add Content
 
-1. Create a powershell script that detects if a directory , if not it has to created.
-2. Once the directory was created set a content in a file called created.txt and add the following text "This directory was created: "
-3. Get the date if the following format Month, Day, Year, Hour and Minute
+Create a PowerShell script that do the following:
+
+1. The Script has to detect if a directory exists, if not it has to create that directory in any path
+2. Once the directory was created create a file called created.txt and set a content as the following text "This directory was created: "
+3. Get the date in the following format: Month, Day, Year, Hour and Minutes
 4. Add the content of the date in the file Created.txt
 
 ### Expected deliverables
