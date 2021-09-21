@@ -4,10 +4,10 @@
 The goal of the course is guide to the trainees how to build scripts for automation of Azure
 
 ## Objectives
-- Develop skills to write effective powershell scripts to automate repetitive tasks.
-- Know the structure of a PowerShell script
-- Know how to run your own PowerShell script
-- Know the different powershell arithmetic operators, loops, conditional, variables, functions and most used techniques
+- Develop skills to write effective powershell scripts to automate repetitive tasks
+- Design and write the structure of a PowerShell script
+- Implement your own PowerShell script
+- Use the different powershell arithmetic operators, loops, conditional, variables, functions and most used techniques
 
 ## Contents
 - Introduction to PowerShell

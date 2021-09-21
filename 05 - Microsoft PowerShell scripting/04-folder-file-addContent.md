@@ -10,7 +10,7 @@
 Run the script where it should show that the folder was created, within that folder there should be a file called created.txt with the following content "This directory was created:" and with the date of when the script was executed
 
 ### Evaluation
-| Metric Name  | Description  | % Vaule  |
+| Metric Name  | Description  | % Value  |
 | ------------ | ------------ | ------------:|
 |  Folder created | The folder was created  |  20% |
 |  File created | The file was created with the content |  40% |

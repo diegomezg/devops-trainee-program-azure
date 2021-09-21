@@ -11,7 +11,7 @@
 ##### Expected deliverables
 Upload the .ps file you made and screenshot showing the script executed.
 ##### Evaluation
-| Metric Name  | Description  | % Vaule  |
+| Metric Name  | Description  | % Value  |
 | ------------ | ------------ | ------------:|
 |  Quality | Script is readable & clean  |  20% |
 |  If/For statement | If and For stament used in script  |  40% |
