@@ -40,7 +40,8 @@ This course will provide a basic introduction to Azure concepts and also will dr
 - [01 - Cloud Basic Concepts](./01-cloud-basic-concepts.md)
 - [02 - Creating a Virtual Machine](./02-vm-with-cli.md)
 - [03 - Creating your own mini infrastructure](./03-vm-lb-cli.md)
-- [04 - Create a pipeline to deploy your infra](./04-pipeline.md)
+- [04 - Azure monitoring](./04-azure-monitoring.md)
+- [05 - Create a pipeline to deploy your infra](./05-pipeline.md)
 
 ## Legacy activities
 The following activities are good tutorials using the azure portal. They are not required, but you may find them useful
