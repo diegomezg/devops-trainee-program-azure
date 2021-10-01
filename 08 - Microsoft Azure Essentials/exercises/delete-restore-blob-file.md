@@ -5,8 +5,8 @@
 
 - **Step 2:** Toggle the "Show deleted blobs" switch to display the deleted file. From the file options, select "undelete" to restore the deleted file to the blob container
 
-![Deleted]()
+![Deleted](../images/iam_storage/deleted.png)
 
 Notice that status of the file in the blob container has changed to "Active"
 
-![Active]()
+![Active](../images/iam_storage/active.png)

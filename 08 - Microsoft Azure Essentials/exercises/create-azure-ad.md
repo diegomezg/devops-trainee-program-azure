@@ -3,11 +3,11 @@ A newly created Azure Account usually comes with a default Azure AD. This exerci
 
 **Step 1:** From the Azure side panel select the **Azure Active Directory**, this will display the details of the default AD
 
-![Default AD]()
+![Default AD](../images/iam_storage/default_ad.png)
 
 **Step 2:** Click on the **Manage tenants** tab; then click the **Create** button to begin creating a new AD. Ubder **Basic** select **Azure Active Directory** as the tenant type. For the configuration tab, fill out the form with required information  
 
-![AD Config]()
+![AD Config](../images/iam_storage/ad_config.png)
 
 **Step 3:** To switch to newly created Azure AD, go to the “Manage Tenants” and select the newly created tenants, then click the “Switch” button.  
 

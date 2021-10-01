@@ -3,5 +3,5 @@ In this exercise, a resource group will be created which is a dependency for cre
 
 - From the Azure home, go to the side panel and select **Resource groups**. Click on "create" and enter the required information. At this point, you can select the subscription that linked to the default AD.
 
-![Resource Group]()
+![Resource Group](../images/iam_storage/resource_group.png)
 
