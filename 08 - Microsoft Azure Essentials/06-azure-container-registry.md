@@ -40,8 +40,8 @@ You can use the following resources or research others that you find convenient:
 
     - Document the commands that you used to achieve the instructions.
     - Take a screenshot of the resources in your resource group in the portal.
-    - Take a screenshot of your site deployed in your app service. 
-
+    - Take a screenshot of the Deployment center of your app with the Registry settings.
+    - Take a screenshot of your site deployed in your app service, include url, that must match with the name of your web app.
 
 # Evaluation
 ## Overall Evaluation
