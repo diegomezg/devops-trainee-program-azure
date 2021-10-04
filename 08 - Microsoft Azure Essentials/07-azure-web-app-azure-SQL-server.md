@@ -4,7 +4,7 @@
 ### Instructions
 * To complete this activity, you should create a web app and an Azure SQL server and connect both of them services with traditional connection string and with managed identity.
 
-### Tutorial's:
+### Tutorials:
 
 #### 1) Web app and SQL Server
 - [Build an ASP.NET Core and Azure SQL Database app in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app?pivots=platform-linux)
@@ -34,3 +34,8 @@ Don't forget to delete your resources when the activity had done. Use the [porta
 |:------------------ |:--:|
 | Web app and SQL Server |  60% |
 | Web app, SQL server and Managed Identity |   40% |
+
+
+## Clean up resources
+
+Don't forget to delete your resources when the activity had done. Use the [portal](https://portal.azure.com/).
