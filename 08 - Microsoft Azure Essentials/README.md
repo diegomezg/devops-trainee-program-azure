@@ -42,7 +42,8 @@ This course will provide a basic introduction to Azure concepts and also will dr
 - [03 - Creating your own mini infrastructure](./03-vm-lb-cli.md)
 - [04 - Azure IAM storage](./04-azure-iam-storage.md)
 - [05 - Azure monitoring](./05-azure-monitoring.md)
-- [06 - Create a pipeline to deploy your infra](./06-pipeline.md)
+- [06 - Azure Container Registry & Web App for containers.](./06-azure-container-registry.md)
+- [07 - Azure-SQL-server-Managed-Identity](./07-azure-web-app-azure-SQL-server.md)
 
 ## Legacy activities
 The following activities are good tutorials using the azure portal. They are not required, but you may find them useful

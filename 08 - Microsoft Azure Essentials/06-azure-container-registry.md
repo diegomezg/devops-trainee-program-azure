@@ -1,7 +1,7 @@
 # Microsoft Azure
 # 06 - Azure Container Registry & Web App for containers.
 
-### Instructions
+## Instructions
 Activity 1: You will create an **Azure Container Registry** and push an Image.
 
 <ol>
@@ -36,12 +36,11 @@ You can use the following resources or research others that you find convenient:
 
 
 ### Expected deliverables
-- MD file including:
-
-    - Document the commands that you used to achieve the instructions.
-    - Take a screenshot of the resources in your resource group in the portal.
-    - Take a screenshot of the Deployment center of your app with the Registry settings.
-    - Take a screenshot of your site deployed in your app service, include url, that must match with the name of your web app.
+MD file including:
+* Document the commands that you used to achieve the instructions.
+* Take a screenshot of the resources in your resource group in the portal.
+* Take a screenshot of the Deployment center of your app with the Registry settings.
+* Take a screenshot of your site deployed in your app service, include url, that must match with the name of your web app.
 
 # Evaluation
 ## Overall Evaluation
@@ -63,4 +62,4 @@ You can use the following resources or research others that you find convenient:
 
 ## Clean up resources
 
-Don't forget to delete your resources when the activity had done. Use the [portal]().
+Don't forget to delete your resources when the activity had done. Use the [portal](https://portal.azure.com/).
