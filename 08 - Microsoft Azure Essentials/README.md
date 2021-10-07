@@ -59,6 +59,7 @@ Juan Francisco Gil | @Francisco Gil | francisco.gil@digitalonus.com |
 Daniela Becerra| @Daniela Becerra| daniela.becerra@digitalonus.com|
 Monserrat Guzmán | @Monse Guzman | monserrat.guzman@digitalonus.com |
 Jude Ejinkonye | @Jude Ejinkonye | jude.ejinkonye@digitalonus.com |
+Carmen Saldivar | @maricarmen.saldivar Mari Carmen | carmen.saldivar@digitalonus.com |
 
 
 ## Solutions
