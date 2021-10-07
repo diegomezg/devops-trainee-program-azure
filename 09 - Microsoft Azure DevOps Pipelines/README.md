@@ -1,4 +1,4 @@
-# {{ COURSE_NAME }}
+# Microsoft Azure DevOps
 
 ## Goals
 Place the goals of the course here to form one or more paragraphs.
