@@ -6,19 +6,19 @@ Trainees will create and tie AWS resources: VPC, Security Group and Instance. Yo
 
 1. Create file `main.tf` and include the following resources:
     - Provider
-    - aws_security_group
-    - aws_key_pair
-    - aws_ami
-    - aws_instance
+    - azurerm_network_security_group
+    - azurerm_ssh_public_key
+    - azurerm_image
+    - azurerm_virtual_machine
 
 
 2. In the same file include a public VPC with the following resources:
-    - aws_vpc
-    - aws_subnet
-    - aws_route_table
-    - aws_internet_gateway
-    - aws_route_table_association
-    - aws_route
+    - azurerm_virtual_network
+    - azurerm_subnet
+    - azurerm_route_table
+    - azurerm_virtual_network_gateway
+    - azurerm_subnet_route_table_association
+    - azurerm_route
 
 * Configure the resources using the following diagram: https://gitlab.com/dou-university/planning-committee/grad-program/-/blob/terraform/11%20-%20Terraform/04_basic_aws_infra_diagram.pdf
 
@@ -34,11 +34,11 @@ Trainees will create and tie AWS resources: VPC, Security Group and Instance. Yo
 
 
 4. Move resources in the directories as the following:
-    - `aws_ami` resource in `ami` directory
-    - `aws_key_pair` in `security`
-    - `aws_security_group` in `securitygroup`
-    - `aws_vpc`, `aws_subnet`, `aws_route_table`, `aws_internet_gateway`, `aws_route_table_association` and `aws_route` in `vpc`
-    - Keep the `Provider` and `aws_instance` in `main.tf` file
+    - `azurerm_image` resource in `image` directory
+    - `azurerm_ssh_public_key` in `security`
+    - `azurerm_network_security_group` in `securitygroup`
+    - `azurerm_virtual_network`, `azurerm_subnet`, `azurerm_route_table`, `azurerm_virtual_network_gateway`, `azurerm_subnet_route_table_association` and `azurerm_route` in `vpc`
+    - Keep the `Provider` and `azurerm_virtual_machine` in `main.tf` file
 
 
 5. In main.tf call the modules and then insert the required values in the aws_instance. To call these values you'll need to use the outputs inside each modules directory
@@ -51,15 +51,15 @@ You have to be able to reach the server in port 22 using the public IP assigned 
 #### Measuring instrument
 | Metric  |  Description | Value  |
 | ------------ | ------------ | ------------ |
-|  Security group | aws_security_group was implemented  | 8%  |
-|   Key pair | aws_key_pair was implemented  |  8% |
-|  AMI | aws_ami was implemented   |  8% |
-|  VPC | aws_vpc was implemented   |  8% |
-|  Subnet | aws_subnet was implemented   |  8% |
+|  Security group | azurerm_network_security_group was implemented  | 8%  |
+|   SSH Public Key | azurerm_ssh_public_key was implemented  |  8% |
+|  Image | azurerm_image   |  8% |
+|  VPC | azurerm_virtual_network was implemented   |  8% |
+|  Subnet | azurerm_subnet was implemented   |  8% |
 |  Route table | aws_route_table was implemented   |  8% |
-|  Internet gateway | aws_internet_gateway was implemented   |  8% |
-|  Route table association | aws_route_table_association was implemented   |  8% |
-|  Route | aws_route was implemented   |  8% |
+|  Internet gateway | azurerm_virtual_network_gateway was implemented   |  8% |
+|  Route table association | azurerm_subnet_route_table_association was implemented   |  8% |
+|  Route | azurerm_route was implemented   |  8% |
 |  Functional | Provided scripts is fully functional   |  28% |
 
 
