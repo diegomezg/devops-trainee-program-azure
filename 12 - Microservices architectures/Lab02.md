@@ -2,27 +2,18 @@
 ## Lab 2 , The microservice approach, DockerCompose
 
 ### Instructions
-- using the same server and data, migrate your stack to docker images using [docker compose](https://www.linode.com/docs/websites/cms/ghost/how-to-install-ghost-cms-with-docker-compose-on-ubuntu-18-04/), and expose to the outside only the reverse proxy
+For this lab, you will migrate your stack of services from Lab01 to docker images using docker compose, and expose to the outside only the reverse proxy (nginx). 
 
-
+1. [Follow the steps on this tutorial to deploy a Ghost Blog using docker compose.](https://www.linode.com/docs/websites/cms/ghost/how-to-install-ghost-cms-with-docker-compose-on-ubuntu-18-04/)
+    - NOTE: You can skip the third step in the **"Before You Begin"** section and use the same domain from the previous lab. 
 
 ### Expected deliverables
-- the task is completed when you can demonstrate that the application is reachable via web browser and a video (webm video preferred) showing the docker containers running is sent to galileo.martinez@digitalonus.com
-- a brief description of the procedure should be included, but no specific requirements for this doc are made
-
+- A video of a recording of your screen that showcases your server and the Ghost Blog being reached via a web browser.
+- A document in your prefered format containing screenshots and brief descriptions of the steps taken to deploy the microservices application.
 
 
 ### Evaluation
 | Metric name | Description | % Value |
 | ----------- |-------------| -------:|
-| Punctuality   | (See punctuality details below) | 40% |
-| Documentation   | Procedure to configure the application was delivered | 30% |
-| Functionality   | Application is available via web browser | 30% |
-
-Punctuality evaluation:
-- 40% if delivered the same day the class was taken (March 16th)
-- 30% if delivered the next day (March 17th)
-- 20% if delivered on March 18th
-- 10% if delivered before the end of the week (Saturday 21st, 11:59pm. Guadalajara time)
-- Failing grade if not delivered within the week
-
+| Documentation   | Procedure to configure the application was delivered | 50% |
+| Functionality   | Application is available via web browser | 50% |
