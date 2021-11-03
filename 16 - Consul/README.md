@@ -1,12 +1,12 @@
 # Consul
 ## Goals
-In this course, you'll learn how to use Consul to build scalable and reliable infrastructure.
+In this course, you'll learn how to use Consul as a Service Registry tool.
 
 ## Objectives
 - Explain the basic concepts of Consul
 - Implement Consul with Kubernetes
 - Register a Service and Health Check
-- Managing KV, policies and roles
+- Managing KV, policies
 
 
 ## Contents
@@ -14,27 +14,30 @@ In this course, you'll learn how to use Consul to build scalable and reliable in
 - Basic Architecture of Consul
 - Install Consul
 - Run the Consul Agent
+- Explore the Consul UI
 - Service and Health Check - Service Discovery
 - Connect Services - Service Mesh
+- Learn about Consul's ACL 
 - Add to Consul KV - Service Configuration
-- Explore the Consul UI
+
 
 ## Learning materials
 Course                           | URL
 ---------------------------------| -----------------------------------------------
 Introduction to HashiCorp Consul |https://youtu.be/mxeMdl0KvBI
-Install Consul  | https://www.consul.io/docs/install/index.html
-Consul Documentation | consul.io/docs/index.html
+Install Consul                   | https://www.consul.io/docs/install/index.html
+Consul Documentation             | consul.io/docs/index.html
 
 
 ## Course activities
-- [Deploy Consul with Kubernetes on AWS](./01-consul-with-kubernetes.md)
-- [Run the Consul Agent](./02-run-consul-agent.md)
-- [Creating a policy in consul using terraform]()
+- Day 1: Intro to Consul and running the agent in -dev mode
+- Day 2: Consul Service Mesh
+- Day 3: Consul ACL policies and KV store
 
 
 ## Collaborators
 Name     |   Slack  | Email |
 ---------|----------|----------|
-Monserrat Sedeno    | @Monse | monserrat.sedeno@digitalonus.com |
-Francisco Rodriguez | @panch | francisco.rodriguez@digitalonus.com |
+Arturo Rojas        | @Arturo Rojas | arturo.rojas@digitalonus.com |
+Monserrat Sedeno    | @Monse        | monserrat.sedeno@digitalonus.com |
+Francisco Rodriguez | @panch        | francisco.rodriguez@digitalonus.com |
