@@ -26,7 +26,7 @@
 - [Google Document - Consul Dashboard and Counting](https://docs.google.com/document/d/1HSzKOqf04ERY0KSA9tH3zQ8anc7gt4ajUbeKCh_5pj4/edit?usp=sharing)
 
 ### Deliverables
-#### A .zip file with your name containing the following: 
+A zip file with your name containing the following: 
 - Screenshot of the Consul UI showing the registered services
 - Screenshot of the Dashboard UI functioning correctly
 - Screenshot of the counting policy
