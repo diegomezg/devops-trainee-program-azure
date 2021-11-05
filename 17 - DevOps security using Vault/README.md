@@ -16,18 +16,11 @@ The main goal of this course is to the allow the trainee to deploy and operate v
 1.    How to install Vault locally
 1.    Init and unseal vault.
 1.    Vault Tokens life cycle
-1.    Vault Secret engines
-    1.    PKI
-    1.    K/V
-    1.    DB
+1.    Vault Secret engines (PKI, K/V,DB)
 1.    Vault Policies
 1.    Vault roles
-1.    Vault Auth methods
-    1.    AppRole
-    1.    GitHub
-    1.    Username and password
-1.    Vault credential rotation
-    1.    DB
+1.    Vault Auth methods (AppRole, GitHub, Username and password)
+1.    Vault credential rotation (DB)
 1.    Vault entities and groups
 1.    Terraform vault provider
 
@@ -47,11 +40,11 @@ The main goal of this course is to the allow the trainee to deploy and operate v
 - [Terraform vault provider](https://www.terraform.io/docs/providers/vault/index.html)
 
 ## Labs
-* [First Secret](https://learn.hashicorp.com/tutorials/vault/getting-started-first-secret?in=vault/interactive)
-* [Getting started UI​](https://learn.hashicorp.com/tutorials/vault/getting-started-install?in=vault/getting-started-ui)
 * [Install](https://learn.hashicorp.com/tutorials/vault/getting-started-install?in=vault/getting-started-ui)
+* [Getting started UI​](https://learn.hashicorp.com/tutorials/vault/getting-started-ui?in=vault/getting-started-ui)
+* [First Secret](https://learn.hashicorp.com/tutorials/vault/getting-started-first-secret?in=vault/interactive)
 * [KV](https://learn.hashicorp.com/tutorials/vault/getting-started-secrets-engines)
-* [Versioned Key/Value Secrets Engine](https://learn.hashicorp.com/tutorials/vault/versioned-kv?in=vault/interactive) (CLI,API,UI)
+* [Versioned Key/Value Secrets Engine (CLI,API,UI)](https://learn.hashicorp.com/tutorials/vault/versioned-kv?in=vault/interactive)
 * [Dynamic Secrets: Database Secrets Engine](https://learn.hashicorp.com/tutorials/vault/database-secrets?in=vault/interactive)
 * [Build Your Own Certificate Authority (CA)](https://learn.hashicorp.com/tutorials/vault/pki-engine?in=vault/interactive)
 * [Policies](https://learn.hashicorp.com/tutorials/vault/getting-started-policies?in=vault/interactive)
@@ -64,17 +57,11 @@ The main goal of this course is to the allow the trainee to deploy and operate v
 * [Entities and Groups](https://learn.hashicorp.com/tutorials/vault/identity?in=vault/auth-methods)
 
 ## Course activities
-1. [Install vault with docker](01-install-vault.md)
-1. [Token lifecycle](02-token-lifecycle.md)
-1. [Vault operation](03-vault-operation.md)
-1. [Secret engines](04-secret-engines.md)
-1. [Authentication methods](05-auth-methods-md)
-1. [Policies](06-policies.md)
-1. [Vault entities](07-vault-entities.md)
-1. [Terraform Vault provider](08-terraform-vault-provider.md)
+1. [Challenge](challenge.md)
 
 ## Collaborators
 Name     |   Slack  | Email |
 ---------|----------|----------|
 Bernardo Garza    | @bernardo.garza | bernardo.garza@digitalonus.com |
 Rigel Reyes     | @Rigel Reyes | rigel.reyes@digitalonus.com |
+Eduardo Lopez   |@eduardo.lopez| eduardo.lopez@digitalonus.com
